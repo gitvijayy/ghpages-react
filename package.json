@@ -2,7 +2,7 @@
   "name": "ghpages-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/gitvijayy/ghpages-react",
+  "homepage": "https://gitvijayy.github.io/ghpages-react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
